@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+.card{
+    width: 500px;
+    background-color: green;
+    text-align: center;
+}
+#dish-name{
+    color: white;
+}
